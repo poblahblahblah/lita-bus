@@ -2,7 +2,7 @@ Gem::Specification.new do |spec|
   spec.name          = "lita-bus"
   spec.version       = "0.0.1"
   spec.authors       = ["Patrick O'Brien"]
-  spec.email         = ["patrick.obrien@thetradedesk.com"]
+  spec.email         = ["rubygems@tetrisblocks.net"]
   spec.description   = %q{A Lita handler for throwing someone under the bus.}
   spec.summary       = %q{A Lita handler for throwing someone under the bus.}
   spec.homepage      = "https://github.com/poblahblahblah/lita-bus"
